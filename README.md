@@ -23,7 +23,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourGitHubUsername/RasterGraphicsLab.git
+   git clone https://github.com/LeoTheOriginal/RasterGraphicsLab.git
 2. Open the project in your preferred IDE that supports wxWidgets projects.
 3. Build the project to resolve dependencies and compile the code.
 4. Run the application.
