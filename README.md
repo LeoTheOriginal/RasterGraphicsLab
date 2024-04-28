@@ -47,4 +47,4 @@ Contributions are what make the open-source community such an amazing place to l
 ## Author
 - **Dawid Piotrowski** - *Initial work* - [LeoTheOriginal](https://github.com/LeoTheOriginal)
 
-Project Link: https://github.com/YourGitHubUsername/RasterGraphicsLab
+Project Link: https://github.com/LeoTheOriginal/RasterGraphicsLab
